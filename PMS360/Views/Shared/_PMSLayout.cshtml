@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <td>@Html.ActionLink("Login Page","VerifyUser","PMSUserLoginViewModel")</td>
+                <td>@Html.ActionLink("New User Registration","Create","PMSUserManagement")</td>
+                @*<td>@Html.ActionLink("New Role","Create","PMSRoleManagement")</td>*@
+            </tr>
+        </table>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

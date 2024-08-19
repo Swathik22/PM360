@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PMS360
+build_property.RootNamespace = PMS360
+build_property.ProjectDir = C:\SwathiDonetPractice\MyProject\PMS360\PMS360\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\SwathiDonetPractice\MyProject\PMS360\PMS360
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/PMSAssessment/AssessmentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE1TQXNzZXNzbWVudFxBc3Nlc3NtZW50UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/PMSRoleManagement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE1TUm9sZU1hbmFnZW1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/PMSRoleManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE1TUm9sZU1hbmFnZW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/PMSScheduleAssessment/ScheduleAssessment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE1TU2NoZWR1bGVBc3Nlc3NtZW50XFNjaGVkdWxlQXNzZXNzbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/PMSUserLoginViewModel/PasswordChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE1TVXNlckxvZ2luVmlld01vZGVsXFBhc3N3b3JkQ2hhbmdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/PMSUserLoginViewModel/UserHomepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE1TVXNlckxvZ2luVmlld01vZGVsXFVzZXJIb21lcGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/PMSUserLoginViewModel/VerifyUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE1TVXNlckxvZ2luVmlld01vZGVsXFZlcmlmeVVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/PMSUserManagement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE1TVXNlck1hbmFnZW1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/PMSUserManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE1TVXNlck1hbmFnZW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/Shared/_PMSLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QTVNMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SwathiDonetPractice/MyProject/PMS360/PMS360/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-teptol4rim

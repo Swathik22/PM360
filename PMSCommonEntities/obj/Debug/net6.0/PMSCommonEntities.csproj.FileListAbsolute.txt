@@ -1,0 +1,12 @@
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\bin\Debug\net6.0\PMSCommonEntities.deps.json
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\bin\Debug\net6.0\PMSCommonEntities.dll
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\bin\Debug\net6.0\PMSCommonEntities.pdb
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\obj\Debug\net6.0\PMSCommonEntities.csproj.AssemblyReference.cache
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\obj\Debug\net6.0\PMSCommonEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\obj\Debug\net6.0\PMSCommonEntities.AssemblyInfoInputs.cache
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\obj\Debug\net6.0\PMSCommonEntities.AssemblyInfo.cs
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\obj\Debug\net6.0\PMSCommonEntities.csproj.CoreCompileInputs.cache
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\obj\Debug\net6.0\PMSCommonEntities.dll
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\obj\Debug\net6.0\refint\PMSCommonEntities.dll
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\obj\Debug\net6.0\PMSCommonEntities.pdb
+C:\SwathiDonetPractice\MyProject\PMS360\PMSCommonEntities\obj\Debug\net6.0\ref\PMSCommonEntities.dll

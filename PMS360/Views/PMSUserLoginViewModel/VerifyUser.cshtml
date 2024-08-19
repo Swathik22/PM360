@@ -1,0 +1,47 @@
+﻿@model PMSDataAccess.RepoModal.UserLoginViewModel
+
+@{
+    ViewData["Title"] = "VerifyUser";
+    Layout = "~/Views/Shared/_PMSLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>VerifyUser</title>
+</head>
+<body>
+
+<h4>UserLoginViewModel</h4>
+<hr />
+    <label> @ViewBag.Info</label>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="VerifyUser">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserID" class="control-label"></label>
+                <input asp-for="UserID" class="form-control" />
+                <span asp-validation-for="UserID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input type="password" asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>
+</html>

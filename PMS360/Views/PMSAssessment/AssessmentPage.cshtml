@@ -1,0 +1,53 @@
+﻿@model PMSDataAccess.RepoModal.AssessmentDetail
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AssessmentPage</title>
+</head>
+<body>
+
+<h4>AssessmentDetail</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AssessmentPage">
+            <div>@ViewBag.Status</div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="AssessmentName" class="control-label"></label>
+                <input asp-for="AssessmentName" class="form-control" />
+                <span asp-validation-for="AssessmentName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AssmtDate" class="control-label"></label>
+                <input asp-for="AssmtDate" class="form-control" />
+                <span asp-validation-for="AssmtDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>
+</html>

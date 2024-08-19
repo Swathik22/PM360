@@ -1,0 +1,15 @@
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\bin\Debug\net6.0\PMSUtility.deps.json
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\bin\Debug\net6.0\PMSUtility.dll
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\bin\Debug\net6.0\PMSUtility.pdb
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\obj\Debug\net6.0\PMSUtility.csproj.AssemblyReference.cache
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\obj\Debug\net6.0\PMSUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\obj\Debug\net6.0\PMSUtility.AssemblyInfoInputs.cache
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\obj\Debug\net6.0\PMSUtility.AssemblyInfo.cs
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\obj\Debug\net6.0\PMSUtility.csproj.CoreCompileInputs.cache
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\obj\Debug\net6.0\PMSUtility.dll
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\obj\Debug\net6.0\refint\PMSUtility.dll
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\obj\Debug\net6.0\PMSUtility.pdb
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\obj\Debug\net6.0\ref\PMSUtility.dll
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\bin\Debug\net6.0\PMSCommonEntities.dll
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\bin\Debug\net6.0\PMSCommonEntities.pdb
+C:\SwathiDonetPractice\MyProject\PMS360\PMSUtility\obj\Debug\net6.0\PMSUtility.csproj.CopyComplete
